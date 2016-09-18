@@ -37,7 +37,7 @@ public class PlayerController : MonoBehaviour
         Move(h, v);
 
         // Turn the player to face the mouse cursor.
-        Turning();
+        //Turning();
     }
 
     void Move(float h, float v)
